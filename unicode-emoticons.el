@@ -101,4 +101,5 @@ needs the abbrev-mode to be enabled for it to take affect."
   :group 'unicode-emoticons
   :init-value nil)
 
+(provide 'unicode-emoticons)
 ;;; unicode-emoticons.el ends here
