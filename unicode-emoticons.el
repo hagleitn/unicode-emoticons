@@ -36,7 +36,7 @@
 ;;; Code:
 
 (define-abbrev-table 'unicode-emoticons-mode-abbrev-table
-  '(("pottepr0" "(̶◉͛‿◉̶)")
+  '(("potter0" "(̶◉͛‿◉̶)")
     ("smile0" "(◕‿◕)")
     ("love0" "♥‿♥")
     ("umbrella0" "☂")
