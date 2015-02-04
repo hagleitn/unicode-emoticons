@@ -91,7 +91,7 @@
 ")))
 
 (add-to-list 'abbrev-minor-mode-table-alist
-	     `(unicode-emoticons-mode, unicode-emoticons-mode-abbrev-table))
+	     `(unicode-emoticons-mode ,unicode-emoticons-mode-abbrev-table))
 
 ;;;###autoload
 (define-minor-mode unicode-emoticons-mode
