@@ -46,3 +46,11 @@ Seeing a complete list of abbrevs can be accomplished by
 ```
 M-x list-abbrevs RET
 ```
+
+Enjoy!
+
+```
+•_•)
+( •_•)>⌐■-■
+(⌐■_■)
+ ```
