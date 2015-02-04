@@ -7,11 +7,11 @@ Shortcuts to type unicode emoticons in emacs. If you use emacs for chat (jabber,
 
 This might help. Unicode-emoticons defines a simple minor mode that you can enable for certain major modes to enter these empticons via abbrevs.
 
-## Intallation
+## Installation
 
-Put unicode-emoticons.el itno a directory specified by the load-path variable. Alternatively, you can add a directory to the variable by (add-to-list 'load-path "ADDITIONAL_DIRECTORY").
+Put unicode-emoticons.el into a directory specified by the load-path variable. Alternatively, you can add a directory to the variable by (add-to-list 'load-path "ADDITIONAL_DIRECTORY").
 
-If you put the file in "~/.emacs.d/unicode-emoticons/unicode-emoticons.el" for instance, the follsoing snippet in your .emacs file will load and init the extension.
+If you put the file in "~/.emacs.d/unicode-emoticons/unicode-emoticons.el" for instance, the following snippet in your .emacs file will load and init the extension.
 
 ```lisp
 (add-to-list 'load-path "~/.emacs.d/unicode-emoticons/unicode-emoticons.el")
