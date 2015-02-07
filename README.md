@@ -1,4 +1,7 @@
 # unicode-emoticons
+
+[![MELPA](http://melpa.org/packages/unicode-emoticons-badge.svg)](http://melpa.org/#/unicode-emoticons)
+
 Shortcuts to type unicode emoticons in emacs. If you use emacs for chat (jabber, irc etc) and can't remember how to enter:
 
 ```
@@ -9,7 +12,13 @@ This might help. Unicode-emoticons defines a simple minor mode that you can enab
 
 ## Installation
 
-Put unicode-emoticons.el into a directory specified by the load-path variable. Alternatively, you can add a directory to the variable by (add-to-list 'load-path "ADDITIONAL_DIRECTORY").
+Install unicode-emoticons from [MELPA](melpa.org) with:
+
+```
+M-x package-install RET unicode-emoticons
+```
+
+If you like to do things the hard way: Put unicode-emoticons.el into a directory specified by the load-path variable. Alternatively, you can add a directory to the variable by (add-to-list 'load-path "ADDITIONAL_DIRECTORY").
 
 If you put the file in "~/.emacs.d/unicode-emoticons/unicode-emoticons.el" for instance, the following snippet in your .emacs file will load and init the extension.
 
